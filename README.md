@@ -35,25 +35,37 @@ Hologram:
 
 # Textures:
 <img width="1594" height="280" alt="image" src="https://github.com/user-attachments/assets/b8e276f5-d083-4447-86e9-82d7647fc9e7" />
+
 The textures were made by Substance Painter and exported as URP assets, which includes albedo, metallic, emission and normal maps.
 To implement this, I made a material and import them into the right blank.
+
 <img width="622" height="401" alt="image" src="https://github.com/user-attachments/assets/11eaf638-d7d8-46d6-9b90-775f0734307e" />
+
 As the image shows, I can change the color next to the base map to change the color of the textures.
+
 <img width="2208" height="479" alt="image" src="https://github.com/user-attachments/assets/b6e874bd-78f6-4833-84e7-a298ea440583" />
+
 # Texture Toggle
 <img width="842" height="785" alt="image" src="https://github.com/user-attachments/assets/712fe74b-d9c0-4490-aeed-20e59f593133" />
 <img width="830" height="784" alt="image" src="https://github.com/user-attachments/assets/d3fe8f2c-a1b9-4cef-82fc-c5748477bd86" />
+
 # Visual Effects
+
 ## Portal
 ![ica-5](https://github.com/user-attachments/assets/ad9d120b-8da1-4da3-830d-f4f55c94acb1)
 <img width="2252" height="812" alt="image" src="https://github.com/user-attachments/assets/1cb9f971-08b3-4469-8413-d39c1ffc2b0a" />
+
 ## Lava
 ![ica-6](https://github.com/user-attachments/assets/d7612979-464a-44d2-88b4-9b310985f14d)
 <img width="1731" height="725" alt="image" src="https://github.com/user-attachments/assets/a7ce27aa-5e7a-430a-88de-3a21ce7e6151" />
+
 ## Outline Scan
 ![ica-7](https://github.com/user-attachments/assets/3699b18c-64d7-4c3d-8724-5c9652ee2da4)
+
 Stencil Front
 <img width="803" height="202" alt="image" src="https://github.com/user-attachments/assets/eac6f8d8-4464-4260-8a31-fd19b729aab8" />
+
 Outline Shader
 <img width="557" height="190" alt="image" src="https://github.com/user-attachments/assets/59c7b953-6df6-4bac-a6bc-90f00acd4a13" />
+
 These above are the core of this function. Only if the ref matches, the shader would pass through the stencil shader.
