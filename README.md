@@ -1,5 +1,5 @@
 # ICG-Project
-video link: https://youtu.be/y_wI67ZTG8A
+video link: https://youtu.be/y_wI67ZTG8A 
 Final project video link: https://youtu.be/h3QsS2wd_WI
 # 1. Lighting Models
 <img width="1010" height="958" alt="image" src="https://github.com/user-attachments/assets/b4a3d2a3-4b4a-40ba-95a8-5a21ccf434ea" />
