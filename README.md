@@ -30,7 +30,9 @@ Hologram:
 # 5.Checkpoint
 <img width="1254" height="458" alt="image" src="https://github.com/user-attachments/assets/e0abd409-48ce-4d62-8af4-9591d2c7fb3c" />
 <img width="815" height="316" alt="image" src="https://github.com/user-attachments/assets/de38ccfe-ea33-4865-8470-090cc32862a0" />
+
 ----------------------------------------------------------------------------------------------------
+
 # Textures:
 <img width="1594" height="280" alt="image" src="https://github.com/user-attachments/assets/b8e276f5-d083-4447-86e9-82d7647fc9e7" />
 The textures were made by Substance Painter and exported as URP assets, which includes albedo, metallic, emission and normal maps.
